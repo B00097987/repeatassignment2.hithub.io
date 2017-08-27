@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+#myJumbotron { background-color:gray;
+                    color:whitesmoke;}
+
+h4 {font-size: 26px;}
+
+.footer {text-align: center;
+	         padding:5%;}
+
+#thumbnail {position:absolute;
+	            left:84%;
+	            top:8%;}
